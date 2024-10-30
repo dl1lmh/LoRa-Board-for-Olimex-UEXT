@@ -9,4 +9,6 @@ AddOn Board for Olimex OpenHardware Boards.
  - [X] Board designed
  - [ ] Breadboard-Test
  - [X] PCB Order
- - [ ] PCB Test 
+ - [ ] PCB Test
+
+![3D Pic HW-Rev. 1.0](https://github.com/dl1lmh/LoRa-Board-for-Olimex-UEXT/blob/main/HARDWARE/V1.0/3d.jpg?raw=true)
