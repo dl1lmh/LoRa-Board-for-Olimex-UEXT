@@ -2,6 +2,9 @@
 
 AddOn Board for Olimex OpenHardware Boards. 
 
+> [!NOTE]
+> If you like to get a board, feel free to mail me. 
+
 ## Hardware Rev. 1.0
 30.10.2024 published.
 
